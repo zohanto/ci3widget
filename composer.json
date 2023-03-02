@@ -1,0 +1,11 @@
+{
+	"name": "zohanto/ci3widget",
+	"description": "Widget feature for CodeIgniter 3",
+	"autoload": {
+		"psr-4": {
+			"zohanto\\ci3widget\\": "src/"
+		}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
