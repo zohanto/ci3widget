@@ -1,5 +1,7 @@
 <?php
 
+namespace zohanto\ci3widget;
+
 class Widget
 {
   protected $CI;
